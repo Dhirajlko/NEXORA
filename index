@@ -1,0 +1,2913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NEXORA SQUARE ENTERPRISES – Trading, Wholesale, Supply & Distribution | Lucknow</title>
+    <meta name="description" content="NEXORA SQUARE ENTERPRISES is a trusted Partnership Firm in Lucknow offering Trading, Wholesale, Retail, Supply, Distribution, Import & Export of Electrical Goods, Electronics, Industrial Products, Hardware, and Building Materials." />
+    <meta name="keywords" content="NEXORA SQUARE ENTERPRISES, trading company Lucknow, electrical goods supplier, wholesale electronics, industrial products, hardware supply, building materials, government supplies, institutional supplies, import export India" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://nexorasquare.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="NEXORA SQUARE ENTERPRISES – Premium Trading & Supply Company" />
+    <meta property="og:description" content="Trusted partnership firm in Lucknow for Electrical Goods, Electronics, Industrial Products, Hardware, Building Materials, Government & Institutional Supplies." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nexorasquare.com/" />
+    <meta property="og:image" content="https://nexorasquare.com/assets/og-image.jpg" />
+    <meta property="og:site_name" content="NEXORA SQUARE ENTERPRISES" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="NEXORA SQUARE ENTERPRISES – Premium Trading & Supply Company" />
+    <meta name="twitter:description" content="Trusted partnership firm in Lucknow for Electrical Goods, Electronics, Industrial Products, Hardware, Building Materials, Government & Institutional Supplies." />
+    <meta name="twitter:image" content="https://nexorasquare.com/assets/twitter-image.jpg" />
+
+    <!-- Schema Structured Data -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "NEXORA SQUARE ENTERPRISES",
+            "legalName": "NEXORA SQUARE ENTERPRISES",
+            "description": "Trading, Wholesale, Retail, Supply, Distribution, Import & Export company based in Lucknow, Uttar Pradesh.",
+            "url": "https://nexorasquare.com",
+            "logo": "https://nexorasquare.com/assets/logo.png",
+            "email": "info@nexorasquare.com",
+            "telephone": "+91-9876543210",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3678, Gindan Khera, Amausi",
+                "addressLocality": "Lucknow",
+                "addressRegion": "Uttar Pradesh",
+                "postalCode": "226008",
+                "addressCountry": "IN"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+91-9876543210",
+                "contactType": "Sales",
+                "availableLanguage": ["English", "Hindi"]
+            },
+            "sameAs": [
+                "https://www.facebook.com/nexorasquare",
+                "https://www.instagram.com/nexorasquare",
+                "https://www.linkedin.com/company/nexorasquare",
+                "https://www.youtube.com/nexorasquare"
+            ]
+        }
+    </script>
+
+    <!-- Breadcrumb Schema -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nexorasquare.com/" },
+                { "@type": "ListItem", "position": 2, "name": "About", "item": "https://nexorasquare.com/about" },
+                { "@type": "ListItem", "position": 3, "name": "Products", "item": "https://nexorasquare.com/products" },
+                { "@type": "ListItem", "position": 4, "name": "Services", "item": "https://nexorasquare.com/services" },
+                { "@type": "ListItem", "position": 5, "name": "Contact", "item": "https://nexorasquare.com/contact" }
+            ]
+        }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+
+    <!-- Font Awesome 6 (Free) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+    <style>
+        /* ============================
+               CSS VARIABLES / COLOR PALETTE
+            ============================ */
+        :root {
+            --primary: #0B5ED7;
+            --primary-dark: #0A4BB5;
+            --primary-light: #E8F0FE;
+            --secondary: #1F2937;
+            --secondary-light: #374151;
+            --accent: #F59E0B;
+            --accent-light: #FCD34D;
+            --accent-dark: #D97706;
+            --white: #FFFFFF;
+            --off-white: #F8FAFC;
+            --light-grey: #E5E7EB;
+            --grey: #9CA3AF;
+            --dark-grey: #4B5563;
+            --dark: #111827;
+            --shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+            --shadow-lg: 0 12px 48px rgba(0, 0, 0, 0.12);
+            --radius: 12px;
+            --radius-lg: 20px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --font-poppins: 'Poppins', sans-serif;
+            --font-inter: 'Inter', sans-serif;
+            --font-roboto: 'Roboto', sans-serif;
+            --max-width: 1280px;
+            --header-height: 76px;
+        }
+
+        /* ============================
+               RESET & BASE
+            ============================ */
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: var(--header-height);
+        }
+
+        body {
+            font-family: var(--font-inter);
+            background: var(--white);
+            color: var(--secondary);
+            line-height: 1.7;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+            transition: var(--transition);
+        }
+        a:hover {
+            color: var(--primary);
+        }
+
+        ul {
+            list-style: none;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        .section-padding {
+            padding: 80px 0;
+        }
+        .section-padding-sm {
+            padding: 48px 0;
+        }
+
+        .section-title {
+            font-family: var(--font-poppins);
+            font-size: clamp(28px, 4vw, 42px);
+            font-weight: 700;
+            color: var(--secondary);
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+            line-height: 1.2;
+        }
+        .section-title .highlight {
+            color: var(--primary);
+        }
+        .section-title .accent-text {
+            color: var(--accent);
+        }
+
+        .section-subtitle {
+            font-size: 16px;
+            color: var(--grey);
+            max-width: 640px;
+            margin-bottom: 40px;
+            line-height: 1.8;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+        .text-center .section-subtitle {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 14px 32px;
+            border-radius: 50px;
+            font-family: var(--font-poppins);
+            font-weight: 600;
+            font-size: 15px;
+            border: none;
+            cursor: pointer;
+            transition: var(--transition);
+            text-decoration: none;
+            letter-spacing: 0.3px;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: var(--white);
+            box-shadow: 0 4px 16px rgba(11, 94, 215, 0.35);
+        }
+        .btn-primary:hover {
+            background: var(--primary-dark);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(11, 94, 215, 0.45);
+            color: var(--white);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: var(--secondary);
+            box-shadow: 0 4px 16px rgba(245, 158, 11, 0.35);
+        }
+        .btn-accent:hover {
+            background: var(--accent-dark);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(245, 158, 11, 0.45);
+            color: var(--secondary);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--primary);
+            border: 2px solid var(--primary);
+        }
+        .btn-outline:hover {
+            background: var(--primary);
+            color: var(--white);
+            transform: translateY(-3px);
+        }
+
+        .btn-white {
+            background: var(--white);
+            color: var(--primary);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+        }
+        .btn-white:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+            color: var(--primary-dark);
+        }
+
+        /* ============================
+               HEADER / NAVIGATION
+            ============================ */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: var(--header-height);
+            background: var(--white);
+            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
+            z-index: 1000;
+            transition: var(--transition);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+        }
+        .header.scrolled {
+            box-shadow: 0 4px 32px rgba(0, 0, 0, 0.10);
+        }
+
+        .header-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 100%;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: var(--font-poppins);
+            font-weight: 800;
+            font-size: 22px;
+            color: var(--secondary);
+            letter-spacing: -0.5px;
+            flex-shrink: 0;
+        }
+        .logo .icon {
+            color: var(--primary);
+            font-size: 28px;
+        }
+        .logo .accent {
+            color: var(--accent);
+        }
+        .logo .sub {
+            font-size: 10px;
+            font-weight: 400;
+            letter-spacing: 1.5px;
+            color: var(--grey);
+            display: block;
+            margin-top: -2px;
+        }
+
+        /* Navigation */
+        .nav {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .nav-list {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .nav-list>li {
+            position: relative;
+        }
+        .nav-list>li>a {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 10px 16px;
+            font-family: var(--font-poppins);
+            font-weight: 500;
+            font-size: 14px;
+            color: var(--secondary);
+            border-radius: 8px;
+            transition: var(--transition);
+        }
+        .nav-list>li>a:hover,
+        .nav-list>li>a.active {
+            color: var(--primary);
+            background: var(--primary-light);
+        }
+        .nav-list>li>a .arrow {
+            font-size: 10px;
+            margin-left: 2px;
+            transition: var(--transition);
+        }
+        .nav-list>li:hover>a .arrow {
+            transform: rotate(180deg);
+        }
+
+        /* Mega Menu */
+        .mega-menu {
+            position: absolute;
+            top: calc(100% + 12px);
+            left: 50%;
+            transform: translateX(-50%) translateY(8px);
+            background: var(--white);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-lg);
+            padding: 32px 40px;
+            min-width: 720px;
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 0, 0, 0.04);
+            z-index: 100;
+        }
+        .nav-list>li:hover .mega-menu {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .mega-menu-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+        }
+        .mega-menu-grid .col h4 {
+            font-family: var(--font-poppins);
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--secondary);
+            margin-bottom: 12px;
+            letter-spacing: 0.3px;
+        }
+        .mega-menu-grid .col ul li {
+            margin-bottom: 6px;
+        }
+        .mega-menu-grid .col ul li a {
+            font-size: 14px;
+            color: var(--dark-grey);
+            padding: 4px 0;
+            display: inline-block;
+            transition: var(--transition);
+        }
+        .mega-menu-grid .col ul li a:hover {
+            color: var(--primary);
+            transform: translateX(4px);
+        }
+
+        .mega-menu .featured-link {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--light-grey);
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        .mega-menu .featured-link a {
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .mega-menu .featured-link a:hover {
+            color: var(--accent);
+        }
+
+        /* Header actions */
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .header-actions .search-toggle {
+            background: none;
+            border: none;
+            font-size: 18px;
+            color: var(--secondary);
+            cursor: pointer;
+            padding: 8px;
+            border-radius: 50%;
+            transition: var(--transition);
+        }
+        .header-actions .search-toggle:hover {
+            background: var(--primary-light);
+            color: var(--primary);
+        }
+        .header-actions .btn-small {
+            padding: 10px 20px;
+            font-size: 13px;
+            border-radius: 50px;
+            font-weight: 600;
+            background: var(--accent);
+            color: var(--secondary);
+            border: none;
+            cursor: pointer;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .header-actions .btn-small:hover {
+            background: var(--accent-dark);
+            transform: translateY(-2px);
+        }
+
+        /* Mobile hamburger */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 6px;
+        }
+        .hamburger span {
+            display: block;
+            width: 26px;
+            height: 2.5px;
+            background: var(--secondary);
+            border-radius: 4px;
+            transition: var(--transition);
+        }
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+        .hamburger.active span:nth-child(2) {
+            opacity: 0;
+        }
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+
+        /* ============================
+               SEARCH OVERLAY
+            ============================ */
+        .search-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.60);
+            backdrop-filter: blur(8px);
+            z-index: 2000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            visibility: hidden;
+            transition: var(--transition);
+        }
+        .search-overlay.open {
+            opacity: 1;
+            visibility: visible;
+        }
+        .search-overlay .search-box {
+            background: var(--white);
+            border-radius: var(--radius-lg);
+            padding: 40px 48px;
+            max-width: 600px;
+            width: 90%;
+            transform: scale(0.95);
+            transition: var(--transition);
+        }
+        .search-overlay.open .search-box {
+            transform: scale(1);
+        }
+        .search-overlay .search-box input {
+            width: 100%;
+            padding: 16px 20px;
+            font-size: 18px;
+            border: 2px solid var(--light-grey);
+            border-radius: var(--radius);
+            outline: none;
+            transition: var(--transition);
+            font-family: var(--font-inter);
+        }
+        .search-overlay .search-box input:focus {
+            border-color: var(--primary);
+        }
+        .search-overlay .search-box .close-search {
+            position: absolute;
+            top: 20px;
+            right: 24px;
+            background: none;
+            border: none;
+            font-size: 28px;
+            color: var(--white);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        .search-overlay .search-box .close-search:hover {
+            transform: rotate(90deg);
+            color: var(--accent);
+        }
+        .search-overlay .search-box {
+            position: relative;
+        }
+
+        /* ============================
+               HERO SECTION
+            ============================ */
+        .hero {
+            padding-top: calc(var(--header-height) + 40px);
+            padding-bottom: 80px;
+            background: linear-gradient(135deg, var(--secondary) 0%, #0B1A33 100%);
+            position: relative;
+            overflow: hidden;
+            min-height: 90vh;
+            display: flex;
+            align-items: center;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -40%;
+            right: -20%;
+            width: 70%;
+            height: 120%;
+            background: radial-gradient(circle, rgba(11, 94, 215, 0.15) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 120px;
+            background: linear-gradient(to top, var(--white) 0%, transparent 100%);
+            pointer-events: none;
+        }
+
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+            position: relative;
+            z-index: 2;
+        }
+
+        .hero-content .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.10);
+            backdrop-filter: blur(4px);
+            padding: 8px 18px;
+            border-radius: 50px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--accent-light);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            margin-bottom: 20px;
+        }
+        .hero-content .badge i {
+            font-size: 12px;
+        }
+
+        .hero-content h1 {
+            font-family: var(--font-poppins);
+            font-size: clamp(36px, 5.5vw, 60px);
+            font-weight: 800;
+            color: var(--white);
+            line-height: 1.1;
+            letter-spacing: -1px;
+            margin-bottom: 16px;
+        }
+        .hero-content h1 .highlight {
+            color: var(--accent);
+        }
+        .hero-content h1 .highlight-blue {
+            color: var(--primary);
+        }
+
+        .hero-content p {
+            font-size: 18px;
+            color: rgba(255, 255, 255, 0.75);
+            max-width: 520px;
+            margin-bottom: 32px;
+            line-height: 1.8;
+        }
+
+        .hero-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+        }
+        .hero-buttons .btn {
+            padding: 16px 36px;
+        }
+
+        .hero-stats {
+            display: flex;
+            gap: 40px;
+            margin-top: 40px;
+            padding-top: 32px;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+        }
+        .hero-stats .stat-item .number {
+            font-family: var(--font-poppins);
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--white);
+        }
+        .hero-stats .stat-item .number .accent {
+            color: var(--accent);
+        }
+        .hero-stats .stat-item .label {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.55);
+            font-weight: 400;
+        }
+
+        .hero-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .hero-image .hero-card {
+            background: rgba(255, 255, 255, 0.04);
+            backdrop-filter: blur(12px);
+            border-radius: var(--radius-lg);
+            padding: 40px 36px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            width: 100%;
+            max-width: 480px;
+            box-shadow: 0 24px 64px rgba(0, 0, 0, 0.30);
+        }
+        .hero-image .hero-card .card-icon {
+            font-size: 48px;
+            color: var(--accent);
+            margin-bottom: 16px;
+        }
+        .hero-image .hero-card h3 {
+            font-family: var(--font-poppins);
+            font-size: 22px;
+            color: var(--white);
+            margin-bottom: 8px;
+        }
+        .hero-image .hero-card p {
+            color: rgba(255, 255, 255, 0.65);
+            font-size: 15px;
+            line-height: 1.7;
+        }
+        .hero-image .hero-card .quick-contact {
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .hero-image .hero-card .quick-contact .contact-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: rgba(255, 255, 255, 0.70);
+            font-size: 14px;
+        }
+        .hero-image .hero-card .quick-contact .contact-row i {
+            width: 20px;
+            color: var(--accent);
+        }
+
+        /* ============================
+               BRANDS / TRUST BAR
+            ============================ */
+        .trust-bar {
+            background: var(--white);
+            padding: 32px 0;
+            border-bottom: 1px solid var(--light-grey);
+        }
+        .trust-bar .container {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 32px 48px;
+        }
+        .trust-bar .trust-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--dark-grey);
+        }
+        .trust-bar .trust-item i {
+            color: var(--accent);
+            font-size: 20px;
+        }
+
+        /* ============================
+               ABOUT SECTION
+            ============================ */
+        .about-section {
+            background: var(--white);
+        }
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .about-text .about-badge {
+            display: inline-block;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--primary);
+            background: var(--primary-light);
+            padding: 6px 16px;
+            border-radius: 50px;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .about-text .about-features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-top: 24px;
+        }
+        .about-text .about-features .feat {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--secondary);
+        }
+        .about-text .about-features .feat i {
+            color: var(--accent);
+            font-size: 18px;
+        }
+
+        .about-image {
+            background: var(--primary-light);
+            border-radius: var(--radius-lg);
+            padding: 40px;
+            min-height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .about-image .about-placeholder {
+            font-size: 80px;
+            color: var(--primary);
+            opacity: 0.20;
+        }
+        .about-image .about-card-overlay {
+            position: absolute;
+            bottom: 24px;
+            right: 24px;
+            background: var(--white);
+            border-radius: var(--radius);
+            padding: 20px 24px;
+            box-shadow: var(--shadow-lg);
+            max-width: 200px;
+        }
+        .about-image .about-card-overlay .num {
+            font-family: var(--font-poppins);
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+        .about-image .about-card-overlay p {
+            font-size: 13px;
+            color: var(--dark-grey);
+        }
+
+        /* ============================
+               WHY CHOOSE US
+            ============================ */
+        .why-section {
+            background: var(--off-white);
+        }
+        .why-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 28px;
+            margin-top: 8px;
+        }
+        .why-card {
+            background: var(--white);
+            border-radius: var(--radius);
+            padding: 32px 24px;
+            text-align: center;
+            transition: var(--transition);
+            border: 1px solid transparent;
+            box-shadow: var(--shadow);
+        }
+        .why-card:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary);
+        }
+        .why-card .icon {
+            width: 64px;
+            height: 64px;
+            background: var(--primary-light);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 16px;
+            font-size: 28px;
+            color: var(--primary);
+            transition: var(--transition);
+        }
+        .why-card:hover .icon {
+            background: var(--primary);
+            color: var(--white);
+        }
+        .why-card h4 {
+            font-family: var(--font-poppins);
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .why-card p {
+            font-size: 14px;
+            color: var(--dark-grey);
+            line-height: 1.7;
+        }
+
+        /* ============================
+               PRODUCTS SECTION
+            ============================ */
+        .products-section {
+            background: var(--white);
+        }
+        .products-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 40px;
+        }
+        .products-tabs .tab-btn {
+            padding: 10px 24px;
+            border-radius: 50px;
+            border: 2px solid var(--light-grey);
+            background: transparent;
+            font-family: var(--font-poppins);
+            font-weight: 500;
+            font-size: 14px;
+            color: var(--dark-grey);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        .products-tabs .tab-btn:hover,
+        .products-tabs .tab-btn.active {
+            border-color: var(--primary);
+            background: var(--primary);
+            color: var(--white);
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .product-card {
+            background: var(--off-white);
+            border-radius: var(--radius);
+            padding: 24px 16px;
+            text-align: center;
+            transition: var(--transition);
+            border: 1px solid transparent;
+        }
+        .product-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--primary);
+            box-shadow: var(--shadow);
+            background: var(--white);
+        }
+        .product-card .icon {
+            font-size: 36px;
+            color: var(--primary);
+            margin-bottom: 12px;
+        }
+        .product-card h5 {
+            font-family: var(--font-poppins);
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--secondary);
+        }
+        .product-card p {
+            font-size: 13px;
+            color: var(--grey);
+            margin-top: 4px;
+        }
+
+        /* ============================
+               SERVICES SECTION
+            ============================ */
+        .services-section {
+            background: var(--off-white);
+        }
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 24px;
+        }
+        .service-card {
+            background: var(--white);
+            border-radius: var(--radius);
+            padding: 28px 20px;
+            text-align: center;
+            transition: var(--transition);
+            box-shadow: var(--shadow);
+            border-bottom: 4px solid transparent;
+        }
+        .service-card:hover {
+            transform: translateY(-6px);
+            border-bottom-color: var(--accent);
+            box-shadow: var(--shadow-lg);
+        }
+        .service-card .icon {
+            font-size: 36px;
+            color: var(--accent);
+            margin-bottom: 12px;
+        }
+        .service-card h4 {
+            font-family: var(--font-poppins);
+            font-size: 17px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+        .service-card p {
+            font-size: 14px;
+            color: var(--dark-grey);
+            line-height: 1.6;
+        }
+
+        /* ============================
+               INDUSTRIES SECTION
+            ============================ */
+        .industries-section {
+            background: var(--white);
+        }
+        .industries-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 16px;
+        }
+        .industry-item {
+            background: var(--off-white);
+            border-radius: var(--radius);
+            padding: 20px 16px;
+            text-align: center;
+            font-weight: 500;
+            font-size: 14px;
+            transition: var(--transition);
+            border: 1px solid transparent;
+        }
+        .industry-item:hover {
+            background: var(--primary);
+            color: var(--white);
+            transform: translateY(-4px);
+            border-color: var(--primary);
+        }
+        .industry-item i {
+            display: block;
+            font-size: 28px;
+            margin-bottom: 8px;
+            color: var(--primary);
+        }
+        .industry-item:hover i {
+            color: var(--white);
+        }
+
+        /* ============================
+               CERTIFICATIONS
+            ============================ */
+        .cert-section {
+            background: var(--off-white);
+        }
+        .cert-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .cert-badge {
+            background: var(--white);
+            border-radius: var(--radius);
+            padding: 20px 32px;
+            box-shadow: var(--shadow);
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            font-weight: 600;
+            font-size: 15px;
+            color: var(--secondary);
+            border: 1px solid transparent;
+            transition: var(--transition);
+        }
+        .cert-badge:hover {
+            border-color: var(--accent);
+            transform: translateY(-4px);
+        }
+        .cert-badge i {
+            font-size: 28px;
+            color: var(--accent);
+        }
+
+        /* ============================
+               TESTIMONIALS
+            ============================ */
+        .testimonials-section {
+            background: var(--white);
+        }
+        .testimonial-slider {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+        }
+        .testimonial-card {
+            background: var(--off-white);
+            border-radius: var(--radius);
+            padding: 28px 24px;
+            transition: var(--transition);
+            border: 1px solid transparent;
+        }
+        .testimonial-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow);
+        }
+        .testimonial-card .stars {
+            color: var(--accent);
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .testimonial-card blockquote {
+            font-size: 15px;
+            color: var(--secondary);
+            line-height: 1.7;
+            font-style: italic;
+            margin-bottom: 14px;
+        }
+        .testimonial-card .author {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .testimonial-card .author .avatar {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: var(--primary-light);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--primary);
+            font-weight: 700;
+            font-size: 18px;
+        }
+        .testimonial-card .author .name {
+            font-weight: 600;
+            font-size: 15px;
+        }
+        .testimonial-card .author .role {
+            font-size: 13px;
+            color: var(--grey);
+        }
+
+        /* ============================
+               GALLERY SECTION
+            ============================ */
+        .gallery-section {
+            background: var(--off-white);
+        }
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+        }
+        .gallery-item {
+            aspect-ratio: 1/1;
+            background: var(--light-grey);
+            border-radius: var(--radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            color: var(--grey);
+            transition: var(--transition);
+            cursor: pointer;
+            overflow: hidden;
+            position: relative;
+        }
+        .gallery-item:hover {
+            transform: scale(1.02);
+            box-shadow: var(--shadow-lg);
+        }
+        .gallery-item .overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(11, 94, 215, 0.70);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: var(--transition);
+            color: var(--white);
+            font-size: 18px;
+            font-weight: 500;
+        }
+        .gallery-item:hover .overlay {
+            opacity: 1;
+        }
+        .gallery-item .overlay i {
+            font-size: 28px;
+            margin-right: 8px;
+        }
+
+        /* ============================
+               BLOG / UPDATES
+            ============================ */
+        .blog-section {
+            background: var(--white);
+        }
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 28px;
+        }
+        .blog-card {
+            background: var(--off-white);
+            border-radius: var(--radius);
+            overflow: hidden;
+            transition: var(--transition);
+            border: 1px solid transparent;
+        }
+        .blog-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+        }
+        .blog-card .blog-img {
+            height: 180px;
+            background: var(--light-grey);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            color: var(--grey);
+        }
+        .blog-card .blog-body {
+            padding: 20px 24px 24px;
+        }
+        .blog-card .blog-body .tag {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--primary);
+            background: var(--primary-light);
+            padding: 2px 12px;
+            border-radius: 50px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .blog-card .blog-body h4 {
+            font-family: var(--font-poppins);
+            font-size: 17px;
+            font-weight: 600;
+            margin-bottom: 6px;
+            line-height: 1.3;
+        }
+        .blog-card .blog-body p {
+            font-size: 14px;
+            color: var(--dark-grey);
+            line-height: 1.6;
+        }
+        .blog-card .blog-body .read-more {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 12px;
+            font-weight: 600;
+            font-size: 14px;
+            color: var(--primary);
+        }
+        .blog-card .blog-body .read-more:hover {
+            color: var(--accent);
+        }
+
+        /* ============================
+               CTA SECTION
+            ============================ */
+        .cta-section {
+            background: linear-gradient(135deg, var(--secondary) 0%, #0B1A33 100%);
+            padding: 72px 0;
+            position: relative;
+            overflow: hidden;
+        }
+        .cta-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 60%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(11, 94, 215, 0.12) 0%, transparent 70%);
+        }
+        .cta-content {
+            text-align: center;
+            position: relative;
+            z-index: 2;
+        }
+        .cta-content h2 {
+            font-family: var(--font-poppins);
+            font-size: clamp(28px, 4vw, 42px);
+            font-weight: 700;
+            color: var(--white);
+            margin-bottom: 12px;
+        }
+        .cta-content h2 .highlight {
+            color: var(--accent);
+        }
+        .cta-content p {
+            color: rgba(255, 255, 255, 0.70);
+            font-size: 18px;
+            max-width: 600px;
+            margin: 0 auto 32px;
+            line-height: 1.8;
+        }
+        .cta-content .cta-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            justify-content: center;
+        }
+
+        /* ============================
+               CONTACT SECTION
+            ============================ */
+        .contact-section {
+            background: var(--white);
+        }
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 48px;
+        }
+
+        .contact-info .info-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .contact-info .info-item .icon {
+            width: 48px;
+            height: 48px;
+            background: var(--primary-light);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--primary);
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+        .contact-info .info-item .text h4 {
+            font-family: var(--font-poppins);
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+        .contact-info .info-item .text p {
+            font-size: 14px;
+            color: var(--dark-grey);
+            line-height: 1.6;
+        }
+
+        .contact-form {
+            background: var(--off-white);
+            border-radius: var(--radius-lg);
+            padding: 36px 32px;
+            box-shadow: var(--shadow);
+        }
+        .contact-form h3 {
+            font-family: var(--font-poppins);
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .contact-form .form-group {
+            margin-bottom: 16px;
+        }
+        .contact-form .form-group label {
+            display: block;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 4px;
+            color: var(--secondary);
+        }
+        .contact-form .form-group input,
+        .contact-form .form-group select,
+        .contact-form .form-group textarea {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid var(--light-grey);
+            border-radius: var(--radius);
+            font-family: var(--font-inter);
+            font-size: 15px;
+            transition: var(--transition);
+            background: var(--white);
+            outline: none;
+        }
+        .contact-form .form-group input:focus,
+        .contact-form .form-group select:focus,
+        .contact-form .form-group textarea:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 4px rgba(11, 94, 215, 0.10);
+        }
+        .contact-form .form-group textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+        .contact-form .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        /* ============================
+               MAP SECTION
+            ============================ */
+        .map-section {
+            background: var(--off-white);
+            padding: 0 0 80px 0;
+        }
+        .map-section .map-container {
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            height: 400px;
+            background: var(--light-grey);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            color: var(--grey);
+            position: relative;
+        }
+        .map-section .map-container iframe {
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+
+        /* ============================
+               FOOTER
+            ============================ */
+        .footer {
+            background: var(--secondary);
+            color: rgba(255, 255, 255, 0.80);
+            padding: 64px 0 0 0;
+        }
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 40px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .footer-brand .logo {
+            color: var(--white);
+            margin-bottom: 12px;
+        }
+        .footer-brand .logo .sub {
+            color: rgba(255, 255, 255, 0.50);
+        }
+        .footer-brand p {
+            font-size: 14px;
+            line-height: 1.8;
+            max-width: 320px;
+            color: rgba(255, 255, 255, 0.60);
+        }
+        .footer-brand .social {
+            display: flex;
+            gap: 12px;
+            margin-top: 16px;
+        }
+        .footer-brand .social a {
+            width: 40px;
+            height: 40px;
+            background: rgba(255, 255, 255, 0.06);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: rgba(255, 255, 255, 0.60);
+            transition: var(--transition);
+            font-size: 16px;
+        }
+        .footer-brand .social a:hover {
+            background: var(--primary);
+            color: var(--white);
+            transform: translateY(-3px);
+        }
+
+        .footer-col h4 {
+            font-family: var(--font-poppins);
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--white);
+            margin-bottom: 16px;
+        }
+        .footer-col ul li {
+            margin-bottom: 8px;
+        }
+        .footer-col ul li a {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.60);
+            transition: var(--transition);
+        }
+        .footer-col ul li a:hover {
+            color: var(--accent);
+            padding-left: 4px;
+        }
+
+        .footer-bottom {
+            padding: 20px 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.50);
+        }
+        .footer-bottom .links {
+            display: flex;
+            gap: 20px;
+        }
+        .footer-bottom .links a {
+            color: rgba(255, 255, 255, 0.50);
+            font-size: 13px;
+        }
+        .footer-bottom .links a:hover {
+            color: var(--accent);
+        }
+
+        /* ============================
+               FLOATING BUTTONS
+            ============================ */
+        .floating-buttons {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            z-index: 999;
+        }
+        .floating-buttons .float-btn {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            color: var(--white);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.20);
+            transition: var(--transition);
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .floating-buttons .float-btn:hover {
+            transform: scale(1.10);
+        }
+        .floating-buttons .float-btn.whatsapp {
+            background: #25D366;
+        }
+        .floating-buttons .float-btn.call {
+            background: var(--primary);
+        }
+        .floating-buttons .float-btn.top {
+            background: var(--secondary);
+            font-size: 20px;
+        }
+        .floating-buttons .float-btn.top:hover {
+            background: var(--primary);
+        }
+
+        /* ============================
+               BACK TO TOP (separate)
+            ============================ */
+        .back-top {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 999;
+            opacity: 0;
+            visibility: hidden;
+            transition: var(--transition);
+        }
+        .back-top.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+        .back-top .float-btn {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 22px;
+            color: var(--white);
+            background: var(--secondary);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.20);
+            transition: var(--transition);
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .back-top .float-btn:hover {
+            background: var(--primary);
+            transform: scale(1.10);
+        }
+
+        /* ============================
+               RESPONSIVE
+            ============================ */
+        @media (max-width: 1024px) {
+            .hero-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+                gap: 40px;
+            }
+            .hero-content p {
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .hero-buttons {
+                justify-content: center;
+            }
+            .hero-stats {
+                justify-content: center;
+            }
+            .hero-image .hero-card {
+                margin: 0 auto;
+            }
+            .about-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            .about-text .about-features {
+                justify-content: center;
+            }
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+            .footer-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            .mega-menu {
+                min-width: 400px;
+                padding: 24px;
+            }
+            .mega-menu-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            :root {
+                --header-height: 64px;
+            }
+
+            .nav {
+                position: fixed;
+                top: var(--header-height);
+                left: 0;
+                width: 100%;
+                height: calc(100vh - var(--header-height));
+                background: var(--white);
+                flex-direction: column;
+                padding: 24px;
+                overflow-y: auto;
+                transform: translateX(100%);
+                transition: var(--transition);
+                box-shadow: -4px 0 32px rgba(0, 0, 0, 0.08);
+                gap: 0;
+            }
+            .nav.open {
+                transform: translateX(0);
+            }
+            .nav-list {
+                flex-direction: column;
+                width: 100%;
+                gap: 4px;
+            }
+            .nav-list>li {
+                width: 100%;
+            }
+            .nav-list>li>a {
+                padding: 12px 16px;
+                width: 100%;
+                justify-content: space-between;
+            }
+            .mega-menu {
+                position: static;
+                transform: none;
+                min-width: auto;
+                padding: 16px 16px 16px 32px;
+                box-shadow: none;
+                border: none;
+                opacity: 1;
+                visibility: visible;
+                pointer-events: auto;
+                display: none;
+                background: var(--off-white);
+                border-radius: var(--radius);
+                margin-top: 4px;
+            }
+            .nav-list>li:hover .mega-menu {
+                display: none;
+            }
+            .nav-list>li .mega-menu.open {
+                display: block;
+            }
+            .mega-menu-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+            }
+            .mega-menu .featured-link {
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .hamburger {
+                display: flex;
+            }
+
+            .header-actions .btn-small span {
+                display: none;
+            }
+            .header-actions .btn-small {
+                padding: 10px 14px;
+            }
+
+            .hero {
+                min-height: auto;
+                padding-top: calc(var(--header-height) + 24px);
+                padding-bottom: 48px;
+            }
+            .hero-stats {
+                gap: 24px;
+                flex-wrap: wrap;
+            }
+            .hero-stats .stat-item .number {
+                font-size: 24px;
+            }
+
+            .section-padding {
+                padding: 48px 0;
+            }
+
+            .products-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+
+            .footer-grid {
+                grid-template-columns: 1fr;
+                gap: 28px;
+            }
+            .footer-bottom {
+                flex-direction: column;
+                gap: 12px;
+                text-align: center;
+            }
+            .footer-bottom .links {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .contact-form .form-row {
+                grid-template-columns: 1fr;
+            }
+
+            .floating-buttons .float-btn {
+                width: 48px;
+                height: 48px;
+                font-size: 20px;
+            }
+            .back-top .float-btn {
+                width: 48px;
+                height: 48px;
+                font-size: 18px;
+            }
+
+            .about-text .about-features {
+                grid-template-columns: 1fr;
+            }
+            .about-image .about-card-overlay {
+                position: static;
+                margin-top: 16px;
+                max-width: 100%;
+            }
+
+            .cert-badge {
+                padding: 14px 20px;
+                font-size: 13px;
+            }
+
+            .gallery-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 16px;
+            }
+            .hero-content h1 {
+                font-size: 28px;
+            }
+            .hero-content p {
+                font-size: 15px;
+            }
+            .hero-buttons .btn {
+                padding: 12px 24px;
+                font-size: 14px;
+            }
+            .products-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .gallery-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .mega-menu-grid {
+                grid-template-columns: 1fr;
+            }
+            .contact-form {
+                padding: 24px 16px;
+            }
+        }
+
+        /* ============================
+               UTILITY ANIMATIONS
+            ============================ */
+        .fade-up {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+        .fade-up.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* ============================
+               WHATSAPP FLOATING (duplicate safety)
+            ============================ */
+        .whatsapp-float {
+            position: fixed;
+            bottom: 90px;
+            right: 24px;
+            z-index: 999;
+        }
+        .whatsapp-float a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 56px;
+            height: 56px;
+            background: #25D366;
+            border-radius: 50%;
+            color: var(--white);
+            font-size: 30px;
+            box-shadow: 0 4px 20px rgba(37, 211, 102, 0.40);
+            transition: var(--transition);
+        }
+        .whatsapp-float a:hover {
+            transform: scale(1.10);
+        }
+
+        @media (max-width: 768px) {
+            .whatsapp-float {
+                bottom: 80px;
+                right: 16px;
+            }
+            .whatsapp-float a {
+                width: 48px;
+                height: 48px;
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ============================
+    SEARCH OVERLAY
+    ============================ -->
+    <div class="search-overlay" id="searchOverlay">
+        <div class="search-box">
+            <input type="text" placeholder="Search products, services, articles..." id="searchInput" />
+            <button class="close-search" id="closeSearch" aria-label="Close search">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- ============================
+    HEADER
+    ============================ -->
+    <header class="header" id="header">
+        <div class="container header-inner">
+            <!-- Logo -->
+            <a href="#" class="logo">
+                <i class="fas fa-cube icon"></i>
+                <span>
+                    NEXORA<span class="accent">SQUARE</span>
+                    <span class="sub">ENTERPRISES</span>
+                </span>
+            </a>
+
+            <!-- Navigation -->
+            <nav class="nav" id="mainNav">
+                <ul class="nav-list">
+                    <li><a href="#home" class="active">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li>
+                        <a href="#products">
+                            Products <i class="fas fa-chevron-down arrow"></i>
+                        </a>
+                        <div class="mega-menu" id="productsMega">
+                            <div class="mega-menu-grid">
+                                <div class="col">
+                                    <h4>Electrical &amp; Electronics</h4>
+                                    <ul>
+                                        <li><a href="#">Wires &amp; Cables</a></li>
+                                        <li><a href="#">Switchgears</a></li>
+                                        <li><a href="#">LED Lighting</a></li>
+                                        <li><a href="#">Consumer Electronics</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col">
+                                    <h4>Industrial &amp; Hardware</h4>
+                                    <ul>
+                                        <li><a href="#">Industrial Tools</a></li>
+                                        <li><a href="#">Hardware Fittings</a></li>
+                                        <li><a href="#">Safety Equipment</a></li>
+                                        <li><a href="#">Building Materials</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col">
+                                    <h4>Government &amp; Institutional</h4>
+                                    <ul>
+                                        <li><a href="#">Tender Supplies</a></li>
+                                        <li><a href="#">Bulk Procurement</a></li>
+                                        <li><a href="#">OEM Supplies</a></li>
+                                        <li><a href="#">Custom Sourcing</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="featured-link">
+                                <a href="#products"><i class="fas fa-arrow-right"></i> View All Products</a>
+                                <a href="#contact"><i class="fas fa-file-invoice"></i> Request Catalogue</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#industries">Industries</a></li>
+                    <li><a href="#certifications">Certifications</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+
+            <!-- Header Actions -->
+            <div class="header-actions">
+                <button class="search-toggle" id="searchToggle" aria-label="Search">
+                    <i class="fas fa-search"></i>
+                </button>
+                <a href="#contact" class="btn-small">
+                    <i class="fas fa-paper-plane"></i> <span>Quote</span>
+                </a>
+                <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- ============================
+    HERO
+    ============================ -->
+    <section class="hero" id="home">
+        <div class="container hero-grid">
+            <div class="hero-content">
+                <div class="badge">
+                    <i class="fas fa-award"></i> Trusted Partnership Firm – Lucknow
+                </div>
+                <h1>
+                    Premium <span class="highlight">Trading</span> &amp;
+                    <span class="highlight-blue">Supply</span> Solutions
+                </h1>
+                <p>
+                    NEXORA SQUARE ENTERPRISES delivers excellence in Electrical,
+                    Electronic, Industrial, Hardware &amp; Building Material supply
+                    across India. Your trusted partner for government and institutional
+                    procurement.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-accent">
+                        <i class="fas fa-envelope"></i> Get a Quote
+                    </a>
+                    <a href="#products" class="btn btn-outline" style="border-color:rgba(255,255,255,0.3);color:#fff;">
+                        <i class="fas fa-boxes"></i> Explore Products
+                    </a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <div class="number"><span class="counter" data-target="25">0</span>+</div>
+                        <div class="label">Years of Excellence</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number"><span class="counter" data-target="500">0</span>+</div>
+                        <div class="label">Clients Served</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="number"><span class="counter" data-target="100">0</span>%</div>
+                        <div class="label">Client Satisfaction</div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="hero-card">
+                    <div class="card-icon"><i class="fas fa-handshake"></i></div>
+                    <h3>Your Trusted Partner</h3>
+                    <p>Electrical • Electronics • Industrial • Hardware • Building Materials</p>
+                    <div class="quick-contact">
+                        <div class="contact-row">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>3678, Gindan Khera, Amausi, Lucknow – 226008</span>
+                        </div>
+                        <div class="contact-row">
+                            <i class="fas fa-phone"></i>
+                            <span><a href="tel:+919876543210" style="color:rgba(255,255,255,0.70);">+91 98765 43210</a></span>
+                        </div>
+                        <div class="contact-row">
+                            <i class="fas fa-envelope"></i>
+                            <span><a href="mailto:info@nexorasquare.com" style="color:rgba(255,255,255,0.70);">info@nexorasquare.com</a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    TRUST BAR
+    ============================ -->
+    <section class="trust-bar">
+        <div class="container">
+            <div class="trust-item"><i class="fas fa-check-circle"></i> GST &amp; MSME Registered</div>
+            <div class="trust-item"><i class="fas fa-trophy"></i> ISO 9001:2015 (Future)</div>
+            <div class="trust-item"><i class="fas fa-truck"></i> PAN India Supply</div>
+            <div class="trust-item"><i class="fas fa-shield-alt"></i> Government Tender Specialist</div>
+            <div class="trust-item"><i class="fas fa-hand-holding-heart"></i> 100% Client Trust</div>
+        </div>
+    </section>
+
+    <!-- ============================
+    ABOUT
+    ============================ -->
+    <section class="about-section section-padding" id="about">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-text">
+                    <div class="about-badge"><i class="fas fa-info-circle"></i> About Us</div>
+                    <h2 class="section-title">
+                        Driving Excellence in <span class="highlight">Trading</span> &amp;
+                        <span class="accent-text">Supply</span>
+                    </h2>
+                    <p style="color:var(--dark-grey);line-height:1.9;margin-bottom:12px;">
+                        NEXORA SQUARE ENTERPRISES is a premier Partnership Firm based in
+                        Lucknow, Uttar Pradesh. We specialize in Trading, Wholesale, Retail,
+                        Supply, Distribution, Import &amp; Export of high-quality Electrical
+                        Goods, Electronic Items, Industrial Products, Hardware, and Building
+                        Materials.
+                    </p>
+                    <p style="color:var(--dark-grey);line-height:1.9;">
+                        With a strong commitment to quality and timely delivery, we serve
+                        government institutions, corporate clients, and retail customers
+                        across India. Our expertise in government tenders and institutional
+                        supplies makes us a preferred partner for large-scale procurement.
+                    </p>
+                    <div class="about-features">
+                        <div class="feat"><i class="fas fa-check-circle"></i> Quality Assured</div>
+                        <div class="feat"><i class="fas fa-clock"></i> On-Time Delivery</div>
+                        <div class="feat"><i class="fas fa-rupee-sign"></i> Competitive Pricing</div>
+                        <div class="feat"><i class="fas fa-headset"></i> 24/7 Support</div>
+                    </div>
+                    <div style="margin-top:24px;">
+                        <a href="#contact" class="btn btn-primary">
+                            <i class="fas fa-arrow-right"></i> Know More
+                        </a>
+                    </div>
+                </div>
+                <div class="about-image">
+                    <div class="about-placeholder"><i class="fas fa-building"></i></div>
+                    <div class="about-card-overlay">
+                        <div class="num">15+</div>
+                        <p>Years of trusted service in the industry</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    WHY CHOOSE US
+    ============================ -->
+    <section class="why-section section-padding" id="why">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-star"></i> Why Choose Us
+                </span>
+                <h2 class="section-title">What Makes Us <span class="highlight">Different</span></h2>
+                <p class="section-subtitle">
+                    We combine industry expertise, operational excellence, and a customer-first
+                    approach to deliver unmatched value.
+                </p>
+            </div>
+            <div class="why-grid">
+                <div class="why-card fade-up">
+                    <div class="icon"><i class="fas fa-award"></i></div>
+                    <h4>Trusted Quality</h4>
+                    <p>We source only from verified manufacturers ensuring premium quality across all product categories.</p>
+                </div>
+                <div class="why-card fade-up">
+                    <div class="icon"><i class="fas fa-truck-fast"></i></div>
+                    <h4>Reliable Delivery</h4>
+                    <p>Our robust supply chain ensures on-time delivery, even for large-scale government and institutional orders.</p>
+                </div>
+                <div class="why-card fade-up">
+                    <div class="icon"><i class="fas fa-handshake"></i></div>
+                    <h4>Client First</h4>
+                    <p>We build long-term relationships through transparency, integrity, and a commitment to client success.</p>
+                </div>
+                <div class="why-card fade-up">
+                    <div class="icon"><i class="fas fa-globe"></i></div>
+                    <h4>Pan India Reach</h4>
+                    <p>From Lucknow to every corner of India, we deliver with efficiency and professionalism.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    PRODUCTS
+    ============================ -->
+    <section class="products-section section-padding" id="products">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-boxes"></i> Our Products
+                </span>
+                <h2 class="section-title">Comprehensive <span class="highlight">Product</span> Portfolio</h2>
+                <p class="section-subtitle">
+                    Explore our wide range of products across electrical, electronic, industrial,
+                    hardware, and safety categories.
+                </p>
+            </div>
+
+            <div class="products-tabs" id="productTabs">
+                <button class="tab-btn active" data-category="all">All</button>
+                <button class="tab-btn" data-category="electrical">Electrical</button>
+                <button class="tab-btn" data-category="electronic">Electronics</button>
+                <button class="tab-btn" data-category="hardware">Hardware</button>
+                <button class="tab-btn" data-category="industrial">Industrial</button>
+                <button class="tab-btn" data-category="safety">Safety</button>
+                <button class="tab-btn" data-category="government">Govt. Supply</button>
+            </div>
+
+            <div class="products-grid" id="productsGrid">
+                <!-- populated by JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    SERVICES
+    ============================ -->
+    <section class="services-section section-padding" id="services">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-cogs"></i> Our Services
+                </span>
+                <h2 class="section-title">What We <span class="accent-text">Offer</span></h2>
+                <p class="section-subtitle">
+                    End-to-end trading and supply solutions tailored to meet the diverse
+                    needs of our clients.
+                </p>
+            </div>
+            <div class="services-grid">
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-handshake"></i></div>
+                    <h4>Trading</h4>
+                    <p>Professional trading services across all product categories with competitive pricing.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-wholesale"></i></div>
+                    <h4>Wholesale Supply</h4>
+                    <p>Bulk wholesale supply for retailers, contractors, and large-scale projects.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-store"></i></div>
+                    <h4>Retail Supply</h4>
+                    <p>High-quality products available for retail customers with prompt service.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-file-contract"></i></div>
+                    <h4>Government Tenders</h4>
+                    <p>Expertise in government tender bidding and supply execution across departments.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-box"></i></div>
+                    <h4>Bulk Orders</h4>
+                    <p>Efficient handling of large-volume orders with strict quality and timeline adherence.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-university"></i></div>
+                    <h4>Institutional Supply</h4>
+                    <p>Trusted partner for schools, hospitals, factories, and commercial buildings.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-ship"></i></div>
+                    <h4>Import &amp; Export</h4>
+                    <p>Seamless import and export assistance for global trade requirements.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-industry"></i></div>
+                    <h4>OEM Supply</h4>
+                    <p>Custom OEM supply solutions for manufacturers and industrial clients.</p>
+                </div>
+                <div class="service-card fade-up">
+                    <div class="icon"><i class="fas fa-search"></i></div>
+                    <h4>Custom Procurement</h4>
+                    <p>Tailored procurement services for specialized product requirements.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    INDUSTRIES
+    ============================ -->
+    <section class="industries-section section-padding" id="industries">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-building"></i> Industries We Serve
+                </span>
+                <h2 class="section-title">Serving <span class="highlight">Diverse</span> Sectors</h2>
+                <p class="section-subtitle">
+                    Our products and services cater to a wide range of industries across
+                    the public and private sectors.
+                </p>
+            </div>
+            <div class="industries-grid">
+                <div class="industry-item"><i class="fas fa-hard-hat"></i> Construction</div>
+                <div class="industry-item"><i class="fas fa-landmark"></i> Government</div>
+                <div class="industry-item"><i class="fas fa-hospital"></i> Hospitals</div>
+                <div class="industry-item"><i class="fas fa-school"></i> Education</div>
+                <div class="industry-item"><i class="fas fa-factory"></i> Factories</div>
+                <div class="industry-item"><i class="fas fa-building"></i> Commercial</div>
+                <div class="industry-item"><i class="fas fa-shopping-bag"></i> Retail</div>
+                <div class="industry-item"><i class="fas fa-road"></i> Infrastructure</div>
+                <div class="industry-item"><i class="fas fa-microchip"></i> Manufacturing</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    CERTIFICATIONS
+    ============================ -->
+    <section class="cert-section section-padding" id="certifications">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-certificate"></i> Certifications
+                </span>
+                <h2 class="section-title">Our <span class="accent-text">Accreditations</span></h2>
+                <p class="section-subtitle">
+                    We are a fully compliant and certified organization committed to quality
+                    and transparency.
+                </p>
+            </div>
+            <div class="cert-grid">
+                <div class="cert-badge"><i class="fas fa-file-invoice"></i> GST Registered</div>
+                <div class="cert-badge"><i class="fas fa-building"></i> MSME Registered</div>
+                <div class="cert-badge"><i class="fas fa-id-card"></i> PAN Verified</div>
+                <div class="cert-badge"><i class="fas fa-trademark"></i> Trademark</div>
+                <div class="cert-badge"><i class="fas fa-check-circle"></i> ISO 9001:2015 (Future)</div>
+                <div class="cert-badge"><i class="fas fa-plus-circle"></i> More Certificates</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    TESTIMONIALS
+    ============================ -->
+    <section class="testimonials-section section-padding" id="testimonials">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-quote-left"></i> Testimonials
+                </span>
+                <h2 class="section-title">What Our <span class="highlight">Clients</span> Say</h2>
+                <p class="section-subtitle">
+                    Real feedback from our valued partners and customers across industries.
+                </p>
+            </div>
+            <div class="testimonial-slider">
+                <div class="testimonial-card fade-up">
+                    <div class="stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                    <blockquote>"NEXORA SQUARE has been our go-to supplier for electrical materials. Their quality and delivery are consistently excellent."</blockquote>
+                    <div class="author">
+                        <div class="avatar">RK</div>
+                        <div>
+                            <div class="name">Rakesh Kumar</div>
+                            <div class="role">Procurement Head, Govt. Project</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card fade-up">
+                    <div class="stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                    <blockquote>"We have been working with them for over 5 years. Their pricing is competitive and they never miss a deadline."</blockquote>
+                    <div class="author">
+                        <div class="avatar">SM</div>
+                        <div>
+                            <div class="name">Sunita Mehta</div>
+                            <div class="role">Director, Mehta Constructions</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card fade-up">
+                    <div class="stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                    <blockquote>"Their team understands government tender requirements perfectly. They made the entire process smooth and transparent."</blockquote>
+                    <div class="author">
+                        <div class="avatar">AV</div>
+                        <div>
+                            <div class="name">Amit Verma</div>
+                            <div class="role">Tender Manager, UPPCL</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    GALLERY
+    ============================ -->
+    <section class="gallery-section section-padding" id="gallery">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-images"></i> Gallery
+                </span>
+                <h2 class="section-title">Company <span class="accent-text">Snapshots</span></h2>
+                <p class="section-subtitle">
+                    A glimpse into our office, warehouse, products, and ongoing projects.
+                </p>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <i class="fas fa-building"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Office</div>
+                </div>
+                <div class="gallery-item">
+                    <i class="fas fa-warehouse"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Warehouse</div>
+                </div>
+                <div class="gallery-item">
+                    <i class="fas fa-boxes"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Products</div>
+                </div>
+                <div class="gallery-item">
+                    <i class="fas fa-truck"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Logistics</div>
+                </div>
+                <div class="gallery-item">
+                    <i class="fas fa-hard-hat"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Projects</div>
+                </div>
+                <div class="gallery-item">
+                    <i class="fas fa-users"></i>
+                    <div class="overlay"><i class="fas fa-eye"></i> Team</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    BLOG / UPDATES
+    ============================ -->
+    <section class="blog-section section-padding" id="blog">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-newspaper"></i> Blog &amp; Updates
+                </span>
+                <h2 class="section-title">Latest <span class="highlight">Insights</span></h2>
+                <p class="section-subtitle">
+                    Stay updated with the latest news, trends, and insights from the
+                    trading and supply industry.
+                </p>
+            </div>
+            <div class="blog-grid">
+                <div class="blog-card fade-up">
+                    <div class="blog-img"><i class="fas fa-file-invoice"></i></div>
+                    <div class="blog-body">
+                        <span class="tag">Government Tenders</span>
+                        <h4>How to Win Government Tenders in 2026</h4>
+                        <p>Essential strategies and compliance tips for successful government tender bidding.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="blog-card fade-up">
+                    <div class="blog-img"><i class="fas fa-lightbulb"></i></div>
+                    <div class="blog-body">
+                        <span class="tag">Electrical</span>
+                        <h4>Top Electrical Safety Standards for 2026</h4>
+                        <p>Stay compliant with the latest electrical safety standards and best practices.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="blog-card fade-up">
+                    <div class="blog-img"><i class="fas fa-ship"></i></div>
+                    <div class="blog-body">
+                        <span class="tag">Import Export</span>
+                        <h4>Import Export Trends in India 2026</h4>
+                        <p>Exploring the latest trends and opportunities in India's import-export landscape.</p>
+                        <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    CTA SECTION
+    ============================ -->
+    <section class="cta-section">
+        <div class="container cta-content">
+            <h2>Ready to <span class="highlight">Partner</span> with Us?</h2>
+            <p>
+                Get a free quotation or discuss your requirements with our expert team.
+                We're here to help you with all your trading and supply needs.
+            </p>
+            <div class="cta-buttons">
+                <a href="#contact" class="btn btn-accent">
+                    <i class="fas fa-paper-plane"></i> Request a Quote
+                </a>
+                <a href="tel:+919876543210" class="btn btn-white">
+                    <i class="fas fa-phone"></i> Call Now
+                </a>
+                <a href="#" class="btn btn-outline" style="border-color:rgba(255,255,255,0.3);color:#fff;">
+                    <i class="fas fa-download"></i> Download Profile
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    CONTACT
+    ============================ -->
+    <section class="contact-section section-padding" id="contact">
+        <div class="container">
+            <div class="text-center">
+                <span style="display:inline-block;font-size:13px;font-weight:600;color:var(--primary);background:var(--primary-light);padding:4px 16px;border-radius:50px;letter-spacing:0.5px;margin-bottom:8px;">
+                    <i class="fas fa-envelope"></i> Contact Us
+                </span>
+                <h2 class="section-title">Get In <span class="accent-text">Touch</span></h2>
+                <p class="section-subtitle">
+                    Reach out to us for inquiries, quotations, or any assistance. We'd love
+                    to hear from you.
+                </p>
+            </div>
+
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="info-item">
+                        <div class="icon"><i class="fas fa-map-marker-alt"></i></div>
+                        <div class="text">
+                            <h4>Registered Office</h4>
+                            <p>3678, Gindan Khera, Amausi,<br />Lucknow, Uttar Pradesh – 226008, India</p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="icon"><i class="fas fa-phone"></i></div>
+                        <div class="text">
+                            <h4>Phone</h4>
+                            <p><a href="tel:+919876543210">+91 98765 43210</a></p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="icon"><i class="fas fa-envelope"></i></div>
+                        <div class="text">
+                            <h4>Email</h4>
+                            <p><a href="mailto:info@nexorasquare.com">info@nexorasquare.com</a></p>
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="icon"><i class="fas fa-clock"></i></div>
+                        <div class="text">
+                            <h4>Business Hours</h4>
+                            <p>Mon – Sat: 9:00 AM – 7:00 PM<br />Sunday: Closed</p>
+                        </div>
+                    </div>
+
+                    <div style="margin-top:20px;">
+                        <a href="https://wa.me/919876543210" target="_blank" class="btn btn-accent" style="background:#25D366;color:#fff;">
+                            <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="contact-form" id="contactForm">
+                    <h3>Send a Message</h3>
+                    <p style="color:var(--dark-grey);font-size:14px;margin-bottom:16px;">
+                        Fill in the details and we'll get back to you within 24 hours.
+                    </p>
+                    <form id="contactFormEl" novalidate>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="fullName">Full Name *</label>
+                                <input type="text" id="fullName" placeholder="Your full name" required />
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email Address *</label>
+                                <input type="email" id="email" placeholder="your@email.com" required />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" placeholder="+91 98765 43210" />
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <select id="subject">
+                                <option value="">Select a subject...</option>
+                                <option>Quotation Request</option>
+                                <option>Bulk Order</option>
+                                <option>Become a Dealer</option>
+                                <option>Vendor Registration</option>
+                                <option>Career</option>
+                                <option>General Inquiry</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message *</label>
+                            <textarea id="message" placeholder="Tell us about your requirement..." required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;">
+                            <i class="fas fa-paper-plane"></i> Send Message
+                        </button>
+                        <p style="font-size:13px;color:var(--grey);margin-top:12px;text-align:center;">
+                            <i class="fas fa-lock"></i> Your information is safe with us.
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================
+    MAP
+    ============================ -->
+    <section class="map-section" id="map">
+        <div class="container">
+            <div class="map-container">
+                <!-- Google Map Embed -->
+                <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.456789012345!2d80.98765432101234!3d26.87654321098765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDUyJzM1LjYiTiA4MMKwNTknMTUuNSJF!5e0!3m2!1sen!2sin!4v1700000000000"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                title="NEXORA SQUARE ENTERPRISES Location Map"
+            ></iframe>
+        </div>
+    </div>
+</section>
+
+<!-- ============================
+FOOTER
+============================ -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <a href="#" class="logo">
+                    <i class="fas fa-cube icon"></i>
+                    <span>
+                        NEXORA<span class="accent">SQUARE</span>
+                        <span class="sub">ENTERPRISES</span>
+                    </span>
+                </a>
+                <p>
+                    Trusted partnership firm in Lucknow offering premium trading,
+                    wholesale, retail, supply, distribution, and import-export services.
+                </p>
+                <div class="social">
+                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                    <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Products</h4>
+                <ul>
+                    <li><a href="#">Electrical Goods</a></li>
+                    <li><a href="#">Electronic Items</a></li>
+                    <li><a href="#">Industrial Products</a></li>
+                    <li><a href="#">Hardware</a></li>
+                    <li><a href="#">Safety Equipment</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Useful Links</h4>
+                <ul>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms &amp; Conditions</a></li>
+                    <li><a href="#">Download Profile</a></li>
+                    <li><a href="#">Request Catalogue</a></li>
+                    <li><a href="#contact">Become a Dealer</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <span>&copy; 2026 NEXORA SQUARE ENTERPRISES. All rights reserved.</span>
+            <div class="links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms &amp; Conditions</a>
+                <a href="#">Sitemap</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- ============================
+FLOATING BUTTONS
+============================ -->
+<div class="floating-buttons">
+    <a href="https://wa.me/919876543210" target="_blank" class="float-btn whatsapp" aria-label="WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    <a href="tel:+919876543210" class="float-btn call" aria-label="Call">
+        <i class="fas fa-phone"></i>
+    </a>
+</div>
+
+<div class="back-top" id="backTop">
+    <button class="float-btn" aria-label="Back to top">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+</div>
+
+<!-- ============================
+JAVASCRIPT
+============================ -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+        // ---- Product Data ----
+        const products = [
+            { id: 1, name: 'Wires & Cables', icon: 'fa-plug', category: 'electrical' },
+            { id: 2, name: 'Switchgears', icon: 'fa-bolt', category: 'electrical' },
+            { id: 3, name: 'LED Lighting', icon: 'fa-lightbulb', category: 'electrical' },
+            { id: 4, name: 'Consumer Electronics', icon: 'fa-tv', category: 'electronic' },
+            { id: 5, name: 'Industrial Tools', icon: 'fa-tools', category: 'industrial' },
+            { id: 6, name: 'Hardware Fittings', icon: 'fa-hammer', category: 'hardware' },
+            { id: 7, name: 'Safety Equipment', icon: 'fa-hard-hat', category: 'safety' },
+            { id: 8, name: 'Building Materials', icon: 'fa-cubes', category: 'hardware' },
+            { id: 9, name: 'Tender Supplies', icon: 'fa-file-contract', category: 'government' },
+            { id: 10, name: 'Bulk Procurement', icon: 'fa-boxes', category: 'government' },
+            { id: 11, name: 'OEM Supplies', icon: 'fa-industry', category: 'industrial' },
+            { id: 12, name: 'Safety Gear', icon: 'fa-helmet-safety', category: 'safety' },
+            { id: 13, name: 'Electrical Panels', icon: 'fa-server', category: 'electrical' },
+            { id: 14, name: 'Electronic Components', icon: 'fa-microchip', category: 'electronic' },
+        ];
+
+        const productsGrid = document.getElementById('productsGrid');
+        const tabBtns = document.querySelectorAll('.tab-btn');
+
+        function renderProducts(category) {
+            const filtered = category === 'all' ?
+                products :
+                products.filter(p => p.category === category);
+            productsGrid.innerHTML = filtered.map(p => `
+                        <div class="product-card">
+                            <div class="icon"><i class="fas ${p.icon}"></i></div>
+                            <h5>${p.name}</h5>
+                            <p>${p.category.charAt(0).toUpperCase() + p.category.slice(1)}</p>
+                        </div>
+                    `).join('');
+        }
+
+        renderProducts('all');
+
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                tabBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                renderProducts(this.dataset.category);
+            });
+        });
+
+        // ---- Hamburger Menu ----
+        const hamburger = document.getElementById('hamburger');
+        const mainNav = document.getElementById('mainNav');
+        const navLinks = mainNav.querySelectorAll('.nav-list > li > a');
+
+        hamburger.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('open');
+        });
+
+        // Close menu on link click (mobile)
+        navLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                // If it's a parent with mega menu, don't close on click
+                const parent = this.closest('li');
+                const mega = parent.querySelector('.mega-menu');
+                if (mega) {
+                    e.preventDefault();
+                    mega.classList.toggle('open');
+                    return;
+                }
+                if (window.innerWidth <= 768) {
+                    hamburger.classList.remove('active');
+                    mainNav.classList.remove('open');
+                }
+            });
+        });
+
+        // ---- Search ----
+        const searchToggle = document.getElementById('searchToggle');
+        const searchOverlay = document.getElementById('searchOverlay');
+        const closeSearch = document.getElementById('closeSearch');
+        const searchInput = document.getElementById('searchInput');
+
+        searchToggle.addEventListener('click', function() {
+            searchOverlay.classList.add('open');
+            searchInput.focus();
+        });
+
+        closeSearch.addEventListener('click', function() {
+            searchOverlay.classList.remove('open');
+        });
+
+        searchOverlay.addEventListener('click', function(e) {
+            if (e.target === this) {
+                this.classList.remove('open');
+            }
+        });
+
+        searchInput.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                searchOverlay.classList.remove('open');
+            }
+        });
+
+        // ---- Back to Top ----
+        const backTop = document.getElementById('backTop');
+
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 400) {
+                backTop.classList.add('visible');
+            } else {
+                backTop.classList.remove('visible');
+            }
+        });
+
+        backTop.querySelector('button').addEventListener('click', function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // ---- Sticky Header ----
+        const header = document.getElementById('header');
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 20) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+
+        // ---- Active nav link on scroll ----
+        const sections = document.querySelectorAll('section[id]');
+        const navLinksAll = document.querySelectorAll('.nav-list > li > a');
+
+        function updateActiveLink() {
+            let current = '';
+            sections.forEach(section => {
+                const top = section.offsetTop - 100;
+                if (window.scrollY >= top) {
+                    current = section.getAttribute('id');
+                }
+            });
+            navLinksAll.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + current) {
+                    link.classList.add('active');
+                }
+            });
+        }
+
+        window.addEventListener('scroll', updateActiveLink);
+        updateActiveLink();
+
+        // ---- Counter Animation ----
+        const counters = document.querySelectorAll('.counter');
+
+        function animateCounters() {
+            counters.forEach(counter => {
+                const target = parseInt(counter.dataset.target);
+                let current = 0;
+                const increment = Math.ceil(target / 80);
+                const timer = setInterval(() => {
+                    current += increment;
+                    if (current >= target) {
+                        counter.textContent = target;
+                        clearInterval(timer);
+                    } else {
+                        counter.textContent = current;
+                    }
+                }, 25);
+            });
+        }
+
+        // Trigger counters when in view
+        const heroStats = document.querySelector('.hero-stats');
+        if (heroStats) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        animateCounters();
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.3 });
+            observer.observe(heroStats);
+        }
+
+        // ---- Fade-up on scroll ----
+        const fadeEls = document.querySelectorAll('.fade-up');
+
+        const fadeObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+
+        fadeEls.forEach(el => fadeObserver.observe(el));
+
+        // ---- Contact Form ----
+        const contactForm = document.getElementById('contactFormEl');
+        if (contactForm) {
+            contactForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                const name = document.getElementById('fullName').value.trim();
+                const email = document.getElementById('email').value.trim();
+                const message = document.getElementById('message').value.trim();
+
+                if (!name || !email || !message) {
+                    alert('Please fill in all required fields.');
+                    return;
+                }
+
+                // Simple email validation
+                if (!email.includes('@') || !email.includes('.')) {
+                    alert('Please enter a valid email address.');
+                    return;
+                }
+
+                alert('Thank you for your message! We will get back to you within 24 hours.');
+                this.reset();
+            });
+        }
+
+        // ---- Smooth scroll for anchor links ----
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                const targetId = this.getAttribute('href');
+                if (targetId === '#') return;
+                const target = document.querySelector(targetId);
+                if (target) {
+                    e.preventDefault();
+                    const top = target.offsetTop - 80;
+                    window.scrollTo({ top, behavior: 'smooth' });
+                }
+            });
+        });
+
+        // ---- Close mega menu on outside click ----
+        document.addEventListener('click', function(e) {
+            const megaMenus = document.querySelectorAll('.mega-menu.open');
+            megaMenus.forEach(mega => {
+                if (!mega.closest('.nav-list > li').contains(e.target)) {
+                    mega.classList.remove('open');
+                }
+            });
+        });
+
+        console.log('NEXORA SQUARE ENTERPRISES — Premium Corporate Website Loaded.');
+    });
+</script>
+
+</body>
+</html>
