@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEXORA | Premium Web Design & Development Studio</title>
+  <meta name="description" content="NEXORA Web Design Studio - High-converting modern websites for business growth. Mobile responsive, super fast, and SEO optimized.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Background Orbs -->
+  <div class="bg-orb bg-orb-1"></div>
+  <div class="bg-orb bg-orb-2"></div>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <a href="#" class="brand">
+      <div class="brand-icon">N</div>
+      <span class="brand-name">NEXORA STUDIO</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#showcase" class="nav-link">Live Demos</a></li>
+      <li><a href="#features" class="nav-link">Why Us</a></li>
+      <li><a href="#calculator" class="nav-link">Cost Estimator</a></li>
+    </ul>
+    <a href="https://wa.me/918429930881?text=Hi%20NEXORA!%20I%20want%20a%20website%20for%20my%20business." target="_blank" class="btn-primary">
+      💬 Chat on WhatsApp
+    </a>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-tag">
+        ⚡ 100+ High Quality Websites Delivered
+      </div>
+      <h1 class="hero-title">
+        Apne Business Ko Dijiye Ek <span class="gradient-text">Premium Digital Presence</span>
+      </h1>
+      <p class="hero-subtitle">
+        Hum aapke business ke liye ultra-fast, mobile responsive aur high-converting websites design karte hain. Live demos dekhein aur aaj hi apna business grow karein!
+      </p>
+      <div class="hero-cta-group">
+        <a href="#showcase" class="btn-primary">🚀 Live Demo Designs Dekhein</a>
+        <a href="#calculator" class="btn-secondary">💰 Free Cost Estimate</a>
+      </div>
+    </div>
+    <div class="hero-image-wrapper">
+      <img src="assets/hero.jpg" alt="NEXORA Web Studio UI Preview" class="hero-img">
+      <div class="stat-badge">
+        <div class="stat-icon">⭐</div>
+        <div>
+          <div class="stat-val">4.9 / 5.0 Rating</div>
+          <div class="stat-lbl">100+ Happy Business Clients</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live Showcase Category Tabs -->
+  <section class="section" id="showcase">
+    <div class="section-header">
+      <h2 class="section-title">Explore Industry-Specific <span class="gradient-text">Live Demos</span></h2>
+      <p class="section-desc">Aapke business ke hisab se ready-made design layouts. Kisi bhi category par click karke features dekhein!</p>
+    </div>
+
+    <!-- Category Filter Tabs -->
+    <div class="tabs-container">
+      <button class="tab-btn active" data-category="all">✨ All Demos</button>
+      <button class="tab-btn" data-category="interior">🛋️ Interior & Decor</button>
+      <button class="tab-btn" data-category="photo">📸 Photography Studio</button>
+      <button class="tab-btn" data-category="corporate">🏢 Corporate & CAs</button>
+      <button class="tab-btn" data-category="health">🩺 Clinics & Health</button>
+      <button class="tab-btn" data-category="retail">🏪 Retail & Shops</button>
+    </div>
+
+    <!-- Demo Cards Grid -->
+    <div class="cards-grid" id="cards-container">
+      <!-- Cards rendered via JS -->
+    </div>
+  </section>
+
+  <!-- Cost Estimator Calculator -->
+  <section class="section" id="calculator">
+    <div class="section-header">
+      <h2 class="section-title">Instant <span class="gradient-text">Website Price Calculator</span></h2>
+      <p class="section-desc">Apni zarurat select karein aur dekhein estimated price. Bilkul transparent pricing, koi hidden charge nahi!</p>
+    </div>
+
+    <div class="calculator-box">
+      <div class="calc-grid">
+        <div class="form-group">
+          <label class="form-label">Website Type / Category</label>
+          <select id="calc-type" class="form-control">
+            <option value="business">Business / Portfolio Website (₹3,999)</option>
+            <option value="ecommerce">E-Commerce / Online Store (₹7,999)</option>
+            <option value="corporate">Corporate / Agency Portal (₹9,999)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Number of Pages</label>
+          <select id="calc-pages" class="form-control">
+            <option value="1">Single Page (Landing Page)</option>
+            <option value="5" selected>5 Pages (Home, About, Services, Gallery, Contact)</option>
+            <option value="10">10+ Pages (Full Custom Website)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Add-on Features</label>
+          <select id="calc-addon" class="form-control">
+            <option value="basic">Standard WhatsApp & Call Buttons (FREE)</option>
+            <option value="seo">SEO & Google Search Indexing (+₹1,000)</option>
+            <option value="full">SEO + Speed Optimization + Free Domain (+₹2,000)</option>
+          </select>
+        </div>
+
+        <div class="price-display">
+          <div style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.25rem;">Estimated Price</div>
+          <div class="price-val" id="total-price">₹4,999</div>
+          <div style="font-size: 0.8rem; color: #10b981; margin-top: 0.25rem;">✔ Includes Hosting & Maintenance Support</div>
+        </div>
+      </div>
+
+      <div style="text-align: center;">
+        <a id="btn-book-quote" href="#" target="_blank" class="btn-primary" style="font-size: 1.1rem; padding: 1rem 2.5rem;">
+          📲 WhatsApp Par Ye Deal Book Karein
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 NEXORA Digital Studio. Crafted for Business Growth & High Conversion.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
