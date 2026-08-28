@@ -77,7 +77,7 @@ function updatePrice() {
   const pagesVal = parseInt(document.getElementById("calc-pages")?.value || "5");
   const addonVal = document.getElementById("calc-addon")?.value || "basic";
 
-  let basePrice = 3999;
+  let basePrice = 5999;
   if (typeVal === "ecommerce") basePrice = 7999;
   if (typeVal === "corporate") basePrice = 9999;
 
@@ -89,7 +89,7 @@ function updatePrice() {
   if (addonVal === "seo") addonExtra = 1000;
   if (addonVal === "full") addonExtra = 2000;
 
-  const total = Math.max(2999, basePrice + pageExtra + addonExtra);
+  const total = Math.max(3999, basePrice + pageExtra + addonExtra);
   const formattedPrice = "₹" + total.toLocaleString("en-IN");
 
   const priceEl = document.getElementById("total-price");
