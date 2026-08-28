@@ -53,7 +53,7 @@ function renderCards(filter = "all") {
       <h3 class="card-title">${item.title}</h3>
       <p class="card-text">${item.desc}</p>
       <ul class="feature-list">
-        ${item.features.map(f => `<li class="feature-item"><span class="feature-check">✔</span> ${f}</li>`).join("")}
+        ${item.features.map(f => `<li class="feature-item"><span class="feature-check">✓</span> ${f}</li>`).join("")}
       </ul>
       <a href="https://wa.me/918429930881?text=Hi%20NEXORA!%20I%20want%20to%20see%20the%20${encodeURIComponent(item.title)}%20demo." target="_blank" class="card-btn">
         🚀 Is Design Ka Demo Dekhein
@@ -78,12 +78,12 @@ function updatePrice() {
   const addonVal = document.getElementById("calc-addon")?.value || "basic";
 
   let basePrice = 5999;
-  if (typeVal === "ecommerce") basePrice = 7999;
-  if (typeVal === "corporate") basePrice = 9999;
+  if (typeVal === "ecommerce") basePrice = 9999;
+  if (typeVal === "corporate") basePrice = 14999;
 
   let pageExtra = 0;
-  if (pagesVal === 1) pageExtra = -1000;
-  if (pagesVal === 10) pageExtra = 2000;
+  if (pagesVal === 1) pageExtra = -2000; // 5999 - 2000 = 3999 for 1-page landing site
+  if (pagesVal === 10) pageExtra = 3000;
 
   let addonExtra = 0;
   if (addonVal === "seo") addonExtra = 1000;
