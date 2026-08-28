@@ -55,7 +55,7 @@ function renderCards(filter = "all") {
       <ul class="feature-list">
         ${item.features.map(f => `<li class="feature-item"><span class="feature-check">✓</span> ${f}</li>`).join("")}
       </ul>
-      <a href="https://wa.me/918429930881?text=Hi%20NEXORA!%20I%20want%20to%20see%20the%20${encodeURIComponent(item.title)}%20demo." target="_blank" class="card-btn">
+      <a href="https://wa.me/918429930881?text=Hi%20LEO!%20I%20want%20to%20see%20the%20${encodeURIComponent(item.title)}%20demo." target="_blank" class="card-btn">
         🚀 Is Design Ka Demo Dekhein
       </a>
     </div>
@@ -97,7 +97,7 @@ function updatePrice() {
 
   const bookBtn = document.getElementById("btn-book-quote");
   if (bookBtn) {
-    const msg = `Hi NEXORA! I calculated my website cost: ${formattedPrice} (${typeVal.toUpperCase()}, ${pagesVal} Pages, ${addonVal.toUpperCase()}). I want to order this package!`;
+    const msg = `Hi LEO! I calculated my website cost: ${formattedPrice} (${typeVal.toUpperCase()}, ${pagesVal} Pages, ${addonVal.toUpperCase()}). I want to order this package!`;
     bookBtn.href = `https://wa.me/918429930881?text=${encodeURIComponent(msg)}`;
   }
 }
